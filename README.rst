@@ -17,6 +17,7 @@ how the app was built step by step. To get the first step::
  > git clone ttps://github.com/noisebridge/flask-noiselist.git
  > cd flask-noiselist
  > virtualenv .
+ > source ./bin/activate
  > git checkout ba4ebf111f 
 
 Because things have been updated, we need the latest bootstrap.py::
