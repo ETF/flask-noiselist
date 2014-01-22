@@ -14,7 +14,7 @@ Just like in the last class, you want to run bootstrap and buildout. Unlike the 
 class, the cloned noiselist is the full solution so you can view the commit log to see 
 how the app was built step by step. To get the first step::
 
- > git clone ttps://github.com/noisebridge/flask-noiselist.git
+ > git clone https://github.com/noisebridge/flask-noiselist.git
  > cd flask-noiselist
  > virtualenv .
  > git checkout ba4ebf111f 
